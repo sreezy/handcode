@@ -1,0 +1,34 @@
+{
+    "name": "Drag",
+    "maps": [
+        {
+            "name": "New action map",
+            "id": "904fc90d-00d4-4ef3-af70-90a48f2a3595",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Value",
+                    "id": "a650e333-4739-4fad-88fd-fb215013e6cb",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "e52df76f-db5a-477a-8cda-0ed23cfd8f61",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
